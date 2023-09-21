@@ -1,1 +1,2 @@
-math
+pip install --upgrade pip
+
